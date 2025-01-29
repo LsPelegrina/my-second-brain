@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "277c51258b632861",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff713b8ab210a9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d62b4baf4410e05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2466781a825b704",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f9fbc03e045058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69bb766273618498",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cad493573c216db4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2bf1ffc06a76aef9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06bac74326e07c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "3551fbb574af6488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb59ad767812a851",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "219155e7db1181e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "628a6803bba51938",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2176fc5d1e498904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "fd01d3f714be0d84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4d62b4baf4410e05",
+  "lastOpenFiles": [
+    "IncidentResponse2025/Análise Pós-Incidente & CTI (22-02-2025).md",
+    "IncidentResponse2025/Conclusão - Apresentação dos grupos (15-03-2025).md",
+    "IncidentResponse2025",
+    "GitAula",
+    "IncidentResponse2025/SSH Backdoor.md",
+    "IncidentResponse2025/Primeira aula (25-01-2025).md",
+    "IncidentResponse2025/Resposta a Incidentes (08-02-2025).md",
+    "IncidentResponse2025/OWASP 03.md",
+    "IncidentResponse2025/Pasted image 20250125110149.png",
+    "IncidentResponse2025/Pasted image 20250125101857.png",
+    "IncidentResponse2025/OWASP 02.md",
+    "IncidentResponse2025/OWASP 01.md",
+    "IncidentResponse2025/Identificação e classificação de incidentes (01-02-2025).md",
+    "IncidentResponse2025/Contenção, Erradicação e Recuperação de Sistemas (15-02-2025).md",
+    "IncidentResponse2025/GRC em IR (08-03-2025).md",
+    "AAAAAAAAA",
+    "GitAula/Aula Git TeoCalvo (28-01-2025).md",
+    "GitAula/Aula Git TeoCalvo (27-01-2025).md",
+    "AAA"
+  ]
+}
