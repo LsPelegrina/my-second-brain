@@ -11,10 +11,14 @@
             "id": "4d62b4baf4410e05",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HackingClub/Git Exposed + Laboratório.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Exposed + Laboratório"
             }
           }
         ]
@@ -168,6 +172,8 @@
   },
   "active": "4d62b4baf4410e05",
   "lastOpenFiles": [
+    "HackingClub/Git Exposed + Laboratório.md",
+    "HackingClub",
     "IncidentResponse2025/Análise Pós-Incidente & CTI (22-02-2025).md",
     "IncidentResponse2025/Conclusão - Apresentação dos grupos (15-03-2025).md",
     "IncidentResponse2025",
