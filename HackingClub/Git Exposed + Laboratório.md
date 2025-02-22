@@ -1,8 +1,15 @@
+
+Vulnerabilidade que ocorre quando a pasta .git vai para produção, não é inclusa no .gitignore, o que torna possível fazer o dump de todas as informações de logs, branchs, e código fonte. 
+
+
+Ferramenta utilizada para fazer o dump do .git:
+
 Git-dumper python3: [[https://github.com/arthaud/git-dumper]]
 
 Comando: ./git-dumper.py URL Diretorio para criar o .git;
 
-Passos:
+
+Passos realizados para capturar a flag do laborátorio(Git Exposed):
 
 1 - Acessar o laboratório
 2 - Perceber que tem um .git exposto

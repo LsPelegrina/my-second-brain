@@ -11,14 +11,14 @@
             "id": "4d62b4baf4410e05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "HackingClub/Git Exposed + Laboratório.md",
-                "mode": "source",
-                "source": false
+                "aFile": "HackingClub/Git Exposed + Laboratório.md",
+                "bFile": "HackingClub/Git Exposed + Laboratório.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Git Exposed + Laboratório"
+              "icon": "diff",
+              "title": "Diff: Git Exposed + Laboratório"
             }
           }
         ]
