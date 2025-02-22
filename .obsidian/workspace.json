@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff713b8ab210a9c4",
+        "id": "cd334bd3d838894f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d62b4baf4410e05",
+            "id": "50f2865b5fb8ad08",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "HackingClub/Git Exposed + Laboratório.md",
-                "bFile": "HackingClub/Git Exposed + Laboratório.md",
-                "aRef": ""
+                "file": "HackingClub/Git Exposed + Laboratório.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Git Exposed + Laboratório"
+              "icon": "lucide-file",
+              "title": "Git Exposed + Laboratório"
             }
           }
         ]
@@ -170,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d62b4baf4410e05",
+  "active": "50f2865b5fb8ad08",
   "lastOpenFiles": [
     "HackingClub/Git Exposed + Laboratório.md",
     "HackingClub",
