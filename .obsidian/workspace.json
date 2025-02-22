@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackingClub/Git Exposed + Laboratório.md",
+                "file": "HackingClub/XSS-REFLECTED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Exposed + Laboratório"
+              "title": "XSS-REFLECTED"
             }
           }
         ]
@@ -173,6 +173,7 @@
   "active": "50f2865b5fb8ad08",
   "lastOpenFiles": [
     "HackingClub/Git Exposed + Laboratório.md",
+    "HackingClub/XSS-REFLECTED.md",
     "HackingClub",
     "IncidentResponse2025/Análise Pós-Incidente & CTI (22-02-2025).md",
     "IncidentResponse2025/Conclusão - Apresentação dos grupos (15-03-2025).md",
