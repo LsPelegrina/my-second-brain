@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "XSS-REFLECTED"
             }
+          },
+          {
+            "id": "7d6b65e7a3cbce55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackingClub/XSS-REFLECTED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XSS-REFLECTED"
+            }
+          },
+          {
+            "id": "a33532a951b48062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackingClub/SQL injection Blind Time Based.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL injection Blind Time Based"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50f2865b5fb8ad08",
+  "active": "a33532a951b48062",
   "lastOpenFiles": [
+    "HackingClub/SQL Injection (Web Shell).md",
+    "HackingClub/SQL Injection Manual.md",
+    "HackingClub/SQL injection Blind Time Based.md",
+    "HackingClub/XSS-STORED.md",
+    "HackingClub/XSS-DOM-BASED.md",
     "HackingClub/Git Exposed + Laboratório.md",
     "HackingClub/XSS-REFLECTED.md",
     "HackingClub",

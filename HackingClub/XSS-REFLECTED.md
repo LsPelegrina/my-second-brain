@@ -18,3 +18,8 @@ Agora se for possível utilizar javascript nesses inputs passando pela tag:
 ~~~
 Nós podemos pegar dados do usuário, como o que ele está digitando, ou os cookies de sessão, para que pudêssemos passar por esse usuário.
 <strong>O HTTP-ONLY na definição do cookie não pode estar ativo</strong> para que possamos pegar o cookie utilizando JS 
+
+Aqui temos algumas coisas interessantes, pois não necessariamente precisamos rodar uma tag script para rodar um script js, podemos utilizar tags de imagens, ou svgs por exemplo, onde podemos passar campos como onload, ou onerror, e colocar para executar uma função, exemplo: onload=alert(1), ou onerror=alert(2), o que faz com que rode um script js, mesmo não utilizando uma tag script.
+
+<h1>Laboratório</h1>
+O laboratório era 3 inputs, onde um refletia pegando o meu nome em real time, então colocando uma tag de negrito, ele já renderizou o html, resultando em um HTMLi, ou seja, quando colocamos a tag de script ele já resultou em um xss, e entregou a flag para nós.
