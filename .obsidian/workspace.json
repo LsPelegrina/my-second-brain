@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcffb4caaa9015b6",
+        "id": "149059c099d454b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a22c6c6409968645",
+            "id": "a86d50d4704f3c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,17 +171,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a22c6c6409968645",
+  "active": "a86d50d4704f3c30",
   "lastOpenFiles": [
-    "Redes de computadores/Assets/Pasted image 20250421190750.png",
+    "Redes de computadores/Assets/Exemplo-Comunicação-TCP-IP.png",
+    "Redes de computadores/Assets/Equivalência-OSI-TCP-IP.png",
+    "Redes de computadores/Assets/Nome-PDUS.png",
+    "Redes de computadores/Assets/Exemplo-headers-trails.png",
+    "Redes de computadores/Assets/Exemplo-Comunicação-Nós.png",
+    "Redes de computadores/Assets/Exemplo-Camada-Aeroporto.png",
+    "Redes de computadores/Assets/Camada-OSI.png",
     "Redes de computadores/Introdução a redes de computadores.md",
     "Redes de computadores/Assets",
-    "Redes de computadores/Assets/Pasted image 20250425223535.png",
-    "Redes de computadores/Assets/Pasted image 20250425223132.png",
-    "Redes de computadores/Assets/Pasted image 20250421200644.png",
-    "Redes de computadores/Assets/Pasted image 20250421200107.png",
-    "Redes de computadores/Assets/Pasted image 20250421192421.png",
-    "Redes de computadores/Assets/Pasted image 20250421192002.png",
     "HackingClub/XSS-STORED.md",
     "HackingClub/XSS-REFLECTED.md",
     "HackingClub/XSS-DOM-BASED.md",
