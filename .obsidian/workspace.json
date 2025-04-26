@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cd334bd3d838894f",
+        "id": "dcffb4caaa9015b6",
         "type": "tabs",
         "children": [
           {
-            "id": "50f2865b5fb8ad08",
+            "id": "a22c6c6409968645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackingClub/XSS-REFLECTED.md",
+                "file": "Redes de computadores/Introdução a redes de computadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS-REFLECTED"
-            }
-          },
-          {
-            "id": "7d6b65e7a3cbce55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackingClub/XSS-REFLECTED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XSS-REFLECTED"
-            }
-          },
-          {
-            "id": "a33532a951b48062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackingClub/SQL injection Blind Time Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL injection Blind Time Based"
+              "title": "Introdução a redes de computadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,19 +34,6 @@
         "id": "37f9fbc03e045058",
         "type": "tabs",
         "children": [
-          {
-            "id": "69bb766273618498",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "cad493573c216db4",
             "type": "leaf",
@@ -90,7 +48,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -102,12 +60,26 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "7b94c6dc54b8f1c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "06bac74326e07c75",
@@ -186,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +171,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a33532a951b48062",
+  "active": "7b94c6dc54b8f1c7",
   "lastOpenFiles": [
-    "HackingClub/SQL Injection (Web Shell).md",
+    "Pasted image 20250425223535.png",
+    "Pasted image 20250425223132.png",
+    "Pasted image 20250421200644.png",
+    "Pasted image 20250421200107.png",
+    "Pasted image 20250421192421.png",
+    "Pasted image 20250421192002.png",
+    "Pasted image 20250421190750.png",
+    "Redes de computadores/Introdução a redes de computadores.md",
+    "HackingClub/XSS-STORED.md",
+    "HackingClub/XSS-REFLECTED.md",
+    "HackingClub/XSS-DOM-BASED.md",
     "HackingClub/SQL Injection Manual.md",
     "HackingClub/SQL injection Blind Time Based.md",
-    "HackingClub/XSS-STORED.md",
-    "HackingClub/XSS-DOM-BASED.md",
+    "HackingClub/SQL Injection (Web Shell).md",
+    "HackingClub/IAM - Identity and Access Management.md",
     "HackingClub/Git Exposed + Laboratório.md",
-    "HackingClub/XSS-REFLECTED.md",
+    "GitAula/Aula Git TeoCalvo (28-01-2025).md",
+    "Redes de computadores",
+    "GitAula/Aula Git TeoCalvo (27-01-2025).md",
     "HackingClub",
     "IncidentResponse2025/Análise Pós-Incidente & CTI (22-02-2025).md",
     "IncidentResponse2025/Conclusão - Apresentação dos grupos (15-03-2025).md",
@@ -225,8 +209,6 @@
     "IncidentResponse2025/Contenção, Erradicação e Recuperação de Sistemas (15-02-2025).md",
     "IncidentResponse2025/GRC em IR (08-03-2025).md",
     "AAAAAAAAA",
-    "GitAula/Aula Git TeoCalvo (28-01-2025).md",
-    "GitAula/Aula Git TeoCalvo (27-01-2025).md",
     "AAA"
   ]
 }
