@@ -197,7 +197,7 @@ Entretanto se os campus forem em outras cidades, ainda tempos a possibilidade de
 É devido sua grande complexidade, que se divide em muitos "pedaços", como hosts, roteadores, enlaces de diversos meios, aplicações, protocolos, e hardware e software. O maior beneficio nessa estratégia é facilitar o estudo.
 Um exemplo dessa mesma aplicação é a viagem aérea, onde temos a compra da passagem, o despache da bagagem, a embarcação do cliente, a decolagem do avião, entre outros. Ai vem a divisão em serviços, ou melhor, "camadas". Onde cada função só tem seu delimitado escopo, e não tem noção das demais atividades. Com isso ganhamos de certa forma, uma independência maior, entre esse conjunto. 
 
-![[Redes de Computadores/Assets/Exemplo-Camada-Aeroporto.png]]
+![[Exemplo-Camada-Aeroporto.png]]
 
 Dessa maneira, irá ajudar a lidar com sistemas complexos, e estudar mais afundo os relacionamentos que ocorrem entre cada "camada", fazendo assim o sistema ser modular o que facilita a manutenção e atualização do sistema, assim, a implementação do serviço da camada é transparente para o resto do sistema. Mas com isso surgem algumas problemas, sendo deles, o principal, overhead
 
@@ -211,13 +211,13 @@ Destas camadas, são definidas desde aspectos físicos até aspectos abstratos d
 
 O modelo é constituído de sete camadas: Aplicação, Apresentação, Sessão, Transporte, Rede, Enlace de dados e Física. Como na imagem a seguir:
 
-![[Redes de Computadores/Assets/Camada-OSI.png]]
+![[Camada-OSI.png]]
 
 Sendo 1 a camada mais "física" realmente, e o 7 o mais abstrato.
 
 O modo com que há a comunicação é como na imagem abaixo: 
 
-![[Redes de Computadores/Assets/Exemplo-Comunicação-Nós.png]]
+![[Exemplo-Comunicação-Nós.png]]
 
 A conexão só ocorre quando há 2 nós interessados em trocar informações. A mensagem só começa a ser enviada, quando as aplicações querem se comunicar entre si. Ou seja, a mensagem é inicialmente passada entre todas as camadas, até chegar na física, onde é enviada para outro nó, no formato de bits, chegando lá, será interpretada na camada física, e sendo passada até a camada de aplicação, na qual é o destino da mensagem. 
 
@@ -257,13 +257,13 @@ As mensagens passadas de camada a camada, podem ser alteradas, adicionando infor
 Esse conjuntos de informações, e carga útil, recebem nomes, sobre o encapsulamento dos dados, que são dadas de acordo com cada camada.
 As chamadas unidades de dados de protocol, ou (PDU), são definidas da seguinte maneira:
 
-![[Redes de Computadores/Assets/Nome-PDUS.png]]
+![[Nome-PDUS.png]]
 
 Cada PDU é composto por cabeçalhos (headers), a carga útil, e a rabeira (trailer).
 
 Normalmente as camadas adicionam headers, entretanto a camada de enlace de dados adiciona um header, e um trailer também.
 
-![[Redes de Computadores/Assets/Exemplo-headers-trails.png]]
+![[Exemplo-headers-trails.png]]
 
 Aqui fica visível um dos problemas do modelo em camadas, onde é ocupado um maior espaço devido ao acréscimo dos cabeçalhos, ocupando uma maior parte da infraestrutura, além de causar um overhead com o processamento de maiores dados.
 ## Arquitetura IEEE 802 e Modelo TCP/IP
@@ -290,11 +290,11 @@ Temos por exemplo:
 - Não se trata de um órgão de padronização;
 - Padrão "de mercado" para interconectividade.
 
-![[Redes de Computadores/Assets/Equivalência-OSI-TCP-IP.png]]
+![[Equivalência-OSI-TCP-IP.png]]
 
 Exemplo simples do funcionamento do protocolo TCP/IP
 
-![[Redes de Computadores/Assets/Exemplo-Comunicação-TCP-IP.png]]
+![[Exemplo-Comunicação-TCP-IP.png]]
 
 Maria envia uma mensagem à João dizendo Olá!
 A camada de aplicação coloca o primeiro header, e envia para a camada de transporte, que adiciona a origem e o destino, sendo elas portas TCP, como header, e sua carga útil se torna tudo que foi recebido da camada anterior.
